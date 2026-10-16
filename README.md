@@ -1,43 +1,33 @@
 # Fluxy
 
-### Votre budget, au rythme du quotidien.
+### Un petit geste. Un mois plus clair.
 
-Une dépense saisie, un cap visible. Fluxy aide à suivre le budget du foyer et à anticiper la fin du mois, seul ou à deux.
+Le budget du foyer au rythme du quotidien : à chaque dépense saisie, la moyenne par jour est comparée à votre objectif et la fin du mois est estimée. Seul ou à deux.
 
 **[Découvrir Fluxy →](https://fluxy-pied.vercel.app/)** · [Architecture](ARCHITECTURE.md)
 
-![Fluxy : saisie d’une dépense, rythme quotidien et résultat mensuel estimé. Données fictives.](assets/showcase/vue-ensemble-v1.png)
+![Fluxy sur téléphone : moyenne de dépenses par jour face à l’objectif, raccourcis de saisie et estimation de fin de mois. Données de démonstration.](assets/fluxy-1-petit-geste-selection-1200x627.png)
 
-## Du geste quotidien à la vue d’ensemble
+## Au quotidien
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="assets/showcase/quotidien-v1.png" alt="Ajout simplifié d’une dépense de courses dans Fluxy." width="100%" />
-<h3>Saisir en quelques instants</h3>
-<p>Enregistrez vos dépenses et retrouvez vos opérations du quotidien.</p>
+<img src="assets/fluxy-2-charges-fixes-selection-1200x627.png" alt="Charges fixes rangées par catégorie, avec rappel d’échéance, évolution de tarif et arrêt programmé. Données de démonstration." width="100%" />
+<h3>Voir ses charges fixes</h3>
+<p>Abonnements, assurances, crédit, salaires et CAF sont saisis une fois, avec échéances, rappels et arrêt programmé.</p>
 </td>
 <td width="50%" valign="top">
-<img src="assets/showcase/recurrents-v1.png" alt="Revenus et charges récurrents, avec un rappel de fin de contrat." width="100%" />
-<h3>Prévoir ce qui revient</h3>
-<p>Rassemblez revenus, charges et abonnements, avec leurs échéances.</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<img src="assets/showcase/projection-v1.png" alt="Estimation du résultat mensuel à partir des revenus et des dépenses prévus." width="100%" />
-<h3>Voir venir la fin du mois</h3>
-<p>Comparez votre rythme de dépenses à votre objectif et ajustez le cap.</p>
-</td>
-<td width="50%" valign="top">
-<img src="assets/showcase/foyer-v1.png" alt="Illustration de deux membres qui contribuent au même budget du foyer." width="100%" />
+<img src="assets/fluxy-3-a-deux-selection-1200x627.png" alt="Un foyer partagé : deux membres, chacun avec son compte, et l’historique commun des dépenses. Données de démonstration." width="100%" />
 <h3>Avancer à deux</h3>
-<p>Chacun ajoute ses dépenses. Le foyer partage la même vision du mois.</p>
+<p>Chacun a son compte et ajoute ses dépenses. Le foyer partage la même vision du mois.</p>
 </td>
 </tr>
 </table>
 
-<sub>Visuels recomposés pour illustrer les usages de Fluxy. Les montants et les personnes présentés sont fictifs.</sub>
+**Et aussi :** dépenses et revenus exceptionnels comptés à part, structure financière du mois, et un démarrage possible sans saisir les récurrents.
+
+<sub>Visuels réalisés à partir de l’application et de son compte de démonstration. Les montants et les personnes présentés sont fictifs.</sub>
 
 ---
 
